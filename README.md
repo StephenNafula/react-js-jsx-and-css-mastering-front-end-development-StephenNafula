@@ -4,7 +4,7 @@ A modern React application built with Vite, featuring task management functional
 
 ![Application Screenshot](screenshots/app-screenshot.png)
 
-[Live Demo](https://your-app-url-here.com) <!-- Replace with your deployment URL -->
+[Live Demo](https://react-js-jsx-and-css-mastering-fron-tau.vercel.app/) <!-- Replace with your deployment URL -->
 
 ## Features
 
