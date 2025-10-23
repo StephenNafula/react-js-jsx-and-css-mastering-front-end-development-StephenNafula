@@ -130,9 +130,10 @@ For this project, I recommend using **Vercel** because:
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
+
 ![Tasks Page](screenshots/tasks.png)
 ![Posts Page](screenshots/posts.png)
+![About Page](screenshots/about.png)
 
 ## Contributing
 
